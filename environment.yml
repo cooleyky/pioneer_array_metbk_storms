@@ -1,4 +1,4 @@
-name: pioneer_array_metbk_storms
+name: pioneer_metbk
 channels:
   - conda-forge
 dependencies:
@@ -14,3 +14,24 @@ dependencies:
   - netcdf4
   - pandas
   - matplotlib
+  - netCDF4
+  - pip
+  - ipykernel
+  - halo
+  - requests
+  - distributed
+  - tqdm
+  - bs4
+  - munch
+  - h5pyd
+  - h5netcdf
+  - urllib3
+  - chardet
+  - conda-build
+  - wheel
+  - python-dateutil
+  - pytz
+  - openssl
+  - yaml
+  - pyopenssl
+  - pyyaml
