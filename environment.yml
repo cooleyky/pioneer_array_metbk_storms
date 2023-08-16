@@ -4,7 +4,7 @@ channels:
 dependencies:
   # Required for full project functionality (dont remove)
   - pytest
-  # Examples (remove and add as needed)
+  # Remove and add below packages as needed
   - jupyter
   - jupyterlab
   - xarray
@@ -35,3 +35,4 @@ dependencies:
   - yaml
   - pyopenssl
   - pyyaml
+  - ioos_qc
