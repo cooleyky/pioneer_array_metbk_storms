@@ -75,10 +75,12 @@ target/
 # Jupyter NB Checkpoints
 .ipynb_checkpoints/
 
-# exclude data from source control by default
-#/data/
-# I want to be able to handle links in here...need to exclude certain file types
-# instead
+# exclude data files from source control
+/data/raw/
+/data/interim/
+/data/processed/
+# Allowing text files with asynchronous request dict
+# to be pushed to this repo.
 
 # Mac OS-specific storage files
 .DS_Store
