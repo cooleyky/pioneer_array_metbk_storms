@@ -36,3 +36,4 @@ dependencies:
   - pyopenssl
   - pyyaml
   - ioos_qc
+  - cmocean
